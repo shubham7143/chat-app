@@ -54,22 +54,22 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/shubham7143/chat-app/screenshots/login.PNG)
-![](https://github.com/shubham7143/chat-app/blob/master/screenshots/signup.PNG)
+![](https://github.com/shubham7143/chat-app/chat-app/screenshots/login.PNG)
+![](https://github.com/shubham7143/chat-app/chat-app/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/shubham7143/chat-app/blob/master/screenshots/real-time.PNG)
+![](https://github.com/shubham7143/chat-app/chat-app/screenshots/real-time.PNG)
 ### One to One chat
-![](https://github.com/shubham7143/chat-app/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/shubham7143/chat-app/chat-app/screenshots/mainscreen.PNG)
 ### Search Users
-![](https://github.com/shubham7143/chat-app/blob/master/screenshots/search.PNG)
+![](https://github.com/shubham7143/chat-app/chat-app/screenshots/search.PNG)
 ### Create Group Chats
-![](https://github.com/shubham7143/chat-app/blob/master/screenshots/new%20grp.PNG)
+![](https://github.com/shubham7143/chat-app/chat-app/screenshots/new%20grp.PNG)
 ### Notifications 
-![](https://github.com/shubham7143/chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/shubham7143/chat-app/chat-app/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
-![](https://github.com/shubham7143/chat-app/blob/master/screenshots/add%20rem.PNG)
+![](https://github.com/shubham7143/chat-app/chat-app/screenshots/add%20rem.PNG)
 ### View Other user Profile
-![](https://github.com/shubham7143/chat-app/blob/master/screenshots/profile.PNG)
+![](https://github.com/shubham7143/chat-app/chat-app/screenshots/profile.PNG)
 ## Made By
 
 - [@shubham7143](https://github.com/shubham7143)
